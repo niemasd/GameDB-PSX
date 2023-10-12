@@ -1,0 +1,2 @@
+# GameDB-PSX
+Sony PlayStation
