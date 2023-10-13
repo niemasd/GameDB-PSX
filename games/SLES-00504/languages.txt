@@ -1,0 +1,6 @@
+English
+French
+Dutch
+Italian
+Spanish
+Swedish
