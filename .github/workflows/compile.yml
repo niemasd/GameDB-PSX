@@ -16,9 +16,9 @@ jobs:
         tag_name: ${{ steps.tag.outputs.release_tag }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - name: Create complete data JSON
+    - name: Run data building scripts
       run: |
-        python3 -c "from glob import glob; from json import dump as jdump; data = {game.split('/')[-1].strip() : {txt.split('/')[-1].strip().split('.txt')[0]:open(txt).read().strip()} for txt in glob('%s/*.txt' % game)} for game in glob('games/*')}; f = open('data.json','w'); dump(data,f); f.close()"
+        wget https://github.com/niemasd/GameDB/raw/main/scripts/create_complete_data_json.py && python3 create_complete_data_json.py
     - name: Upload complete data JSON to release
       uses: svenstaro/upload-release-action@v2
       with:
