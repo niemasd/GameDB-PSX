@@ -57,7 +57,13 @@ if __name__ == "__main__":
                 publisher = cols[1].rstrip('.')
             elif cols[0] == 'Date Released':
                 try:
-                    release_date = datetime.strptime(cols[1], '%d %B %Y').strftime('%Y-%m-%d')
+                    if cols[1].strip() == 'None':
+                        release_date = ''
+                    else:
+                        try:
+                            release_date = datetime.strptime(cols[1], '%d %B %Y').strftime('%Y-%m-%d')
+                        except:
+                            release_date = int(cols[1])
                 except Exception as e:
                     print("ERROR: %s" % html_fn); raise e
             elif cols[0] == 'Serial Number In Disc':
@@ -93,7 +99,9 @@ if __name__ == "__main__":
             curr_data['publisher'] = publisher
         if release_date is None:
             print("Missing release date: %s" % html_fn); exit(1)
-        else:
+        elif isinstance(release_date, int):
+            curr_data['release_date'] = str(release_date)
+        elif release_date != '':
             curr_data['release_date'] = release_date
         if languages is None:
             print("Missing languages: %s" % html_fn); exit(1)
