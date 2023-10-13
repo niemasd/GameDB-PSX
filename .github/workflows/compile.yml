@@ -25,5 +25,5 @@ jobs:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
         file: data.json
         asset_name: PSX.data.json
-        tag: ${{ github.ref }}
+        tag: ${{ steps.tag.outputs.release_tag }}
         overwrite: true
