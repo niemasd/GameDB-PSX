@@ -1,5 +1,5 @@
 # GameDB-PSX
 Sony PlayStation
 
-# Sources:
+# Sources
 * [PlayStation Datacenter](https://psxdatacenter.com/)
