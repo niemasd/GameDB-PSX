@@ -18,12 +18,21 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Run data building scripts
       run: |
-        wget https://github.com/niemasd/GameDB/raw/main/scripts/create_complete_data_json.py && python3 create_complete_data_json.py
+        wget https://github.com/niemasd/GameDB/raw/main/scripts/create_complete_data_json.py && python3 create_complete_data_json.py && \
+        wget https://github.com/niemasd/GameDB/raw/main/scripts/create_complete_data_tsv.py && python3 create_complete_data_tsv.py
     - name: Upload complete data JSON to release
       uses: svenstaro/upload-release-action@v2
       with:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
         file: data.json
         asset_name: PSX.data.json
+        tag: ${{ steps.tag.outputs.release_tag }}
+        overwrite: true
+    - name: Upload complete data TSV to release
+      uses: svenstaro/upload-release-action@v2
+      with:
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        file: data.tsv
+        asset_name: PSX.data.tsv
         tag: ${{ steps.tag.outputs.release_tag }}
         overwrite: true
