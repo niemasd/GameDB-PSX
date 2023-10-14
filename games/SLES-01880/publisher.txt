@@ -1,1 +1,3 @@
-EON / Event / Game Network
+EON
+Event
+Game Network

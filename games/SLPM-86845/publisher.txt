@@ -1,1 +1,2 @@
-Hudson / Infogrames
+Hudson
+Infogrames

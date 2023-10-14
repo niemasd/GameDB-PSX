@@ -1,1 +1,2 @@
-Hudson Soft / Metro
+Hudson Soft
+Metro
