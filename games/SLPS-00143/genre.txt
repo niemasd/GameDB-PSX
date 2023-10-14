@@ -1,1 +1,2 @@
-Action  / Fighting
+Action
+Fighting

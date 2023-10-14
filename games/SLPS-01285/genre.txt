@@ -1,1 +1,3 @@
-Adventure / Strategy / Tactical RPG
+Adventure
+Strategy
+Tactical RPG

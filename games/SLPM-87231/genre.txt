@@ -1,1 +1,2 @@
-Strategy / Simulation
+Strategy
+Simulation

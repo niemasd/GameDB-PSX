@@ -1,1 +1,2 @@
-Tactical RPG / Card Battle
+Tactical RPG
+Card Battle

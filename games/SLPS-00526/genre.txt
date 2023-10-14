@@ -1,1 +1,2 @@
-RPG / Dating Simulation
+RPG
+Dating Simulation

@@ -1,1 +1,2 @@
-Board / Party game
+Board
+Party game

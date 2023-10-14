@@ -1,1 +1,3 @@
-Action / Platformer / Beat'em up
+Action
+Platformer
+Beat'em up

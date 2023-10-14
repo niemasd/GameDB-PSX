@@ -1,1 +1,2 @@
-Board / Puzzle
+Board
+Puzzle

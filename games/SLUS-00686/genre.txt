@@ -1,1 +1,3 @@
-Action / Strategy / First person shooter
+Action
+Strategy
+First person shooter

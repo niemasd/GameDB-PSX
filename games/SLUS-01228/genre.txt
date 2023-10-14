@@ -1,1 +1,3 @@
-Action / Fighting / Shooter
+Action
+Fighting
+Shooter

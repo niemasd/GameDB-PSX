@@ -1,1 +1,3 @@
-Racing / Action / Shooter
+Racing
+Action
+Shooter

@@ -1,1 +1,3 @@
-Platformer / Action / Driving
+Platformer
+Action
+Driving

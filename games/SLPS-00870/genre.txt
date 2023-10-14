@@ -1,1 +1,3 @@
-Action / Platformer / Shooting
+Action
+Platformer
+Shooting

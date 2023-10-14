@@ -1,1 +1,3 @@
-Action / Adventure / Cooking
+Action
+Adventure
+Cooking

@@ -1,1 +1,2 @@
-Board / Quiz
+Board
+Quiz

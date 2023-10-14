@@ -1,1 +1,4 @@
-Action / Driving / Simulation / Mini games
+Action
+Driving
+Simulation
+Mini games

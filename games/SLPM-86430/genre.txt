@@ -1,1 +1,2 @@
-Board / Dating Simulation
+Board
+Dating Simulation

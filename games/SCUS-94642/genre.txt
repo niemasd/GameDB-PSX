@@ -1,1 +1,3 @@
-Action / Driving / Shooting
+Action
+Driving
+Shooting

@@ -1,1 +1,5 @@
-Adventure / Tactical RPG / Data / Pictures / Music
+Adventure
+Tactical RPG
+Data
+Pictures
+Music

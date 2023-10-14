@@ -1,1 +1,3 @@
-Action / Adventure / Shooter
+Action
+Adventure
+Shooter

@@ -1,1 +1,3 @@
-Adventure / Dating / Puzzle
+Adventure
+Dating
+Puzzle

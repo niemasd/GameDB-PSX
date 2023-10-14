@@ -1,1 +1,3 @@
-Action / Driving / Adventure
+Action
+Driving
+Adventure

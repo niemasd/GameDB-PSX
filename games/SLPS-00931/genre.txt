@@ -1,1 +1,3 @@
-Constructing / Simulation / Strategy
+Constructing
+Simulation
+Strategy

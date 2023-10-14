@@ -1,1 +1,2 @@
-Board / Battle Card
+Board
+Battle Card

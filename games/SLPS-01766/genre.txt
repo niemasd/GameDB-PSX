@@ -1,1 +1,3 @@
-Platformer / Puzzle / Action
+Platformer
+Puzzle
+Action

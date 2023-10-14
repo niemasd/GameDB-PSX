@@ -1,1 +1,3 @@
-Card Battle / Mini Games / Simulation
+Card Battle
+Mini Games
+Simulation

@@ -1,1 +1,4 @@
-Action / Puzzle / Shooter / Strategy
+Action
+Puzzle
+Shooter
+Strategy

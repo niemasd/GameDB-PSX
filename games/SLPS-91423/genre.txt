@@ -1,1 +1,2 @@
-First Person Shooter / RPG
+First Person Shooter
+RPG

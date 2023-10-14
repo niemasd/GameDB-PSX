@@ -1,1 +1,3 @@
-Adventure / Data / Pictures
+Adventure
+Data
+Pictures

@@ -1,1 +1,3 @@
-Flight Simulator / Action / Shooter
+Flight Simulator
+Action
+Shooter

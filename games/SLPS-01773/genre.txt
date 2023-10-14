@@ -1,1 +1,3 @@
-Adventure / Card Battle / RPG
+Adventure
+Card Battle
+RPG

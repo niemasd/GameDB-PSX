@@ -1,1 +1,2 @@
-Puzzle / Adventure
+Puzzle
+Adventure

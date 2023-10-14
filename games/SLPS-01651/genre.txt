@@ -1,1 +1,3 @@
-Data / Music / Picture
+Data
+Music
+Picture

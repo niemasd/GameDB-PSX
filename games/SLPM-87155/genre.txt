@@ -1,1 +1,3 @@
-Adventure / Mini Games / Simulation
+Adventure
+Mini Games
+Simulation

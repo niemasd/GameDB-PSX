@@ -1,1 +1,2 @@
-Cricket / Strategy
+Cricket
+Strategy

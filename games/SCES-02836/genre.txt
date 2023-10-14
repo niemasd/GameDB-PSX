@@ -1,1 +1,4 @@
-Action / Adventure / Shooter / Constructing
+Action
+Adventure
+Shooter
+Constructing

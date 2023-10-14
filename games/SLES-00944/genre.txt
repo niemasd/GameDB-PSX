@@ -1,1 +1,3 @@
-Action / Platform / Shooter
+Action
+Platform
+Shooter

@@ -1,1 +1,4 @@
-Data / Pictures / Music  / Mini Games
+Data
+Pictures
+Music
+Mini Games

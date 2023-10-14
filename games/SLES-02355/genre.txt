@@ -1,1 +1,4 @@
-Action / Driving / Shooter / Beat'em up
+Action
+Driving
+Shooter
+Beat'em up

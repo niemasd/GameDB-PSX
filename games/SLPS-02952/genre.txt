@@ -1,1 +1,3 @@
-Data Music / Pictures / Strategy
+Data Music
+Pictures
+Strategy

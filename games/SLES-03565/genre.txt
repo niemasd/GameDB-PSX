@@ -1,1 +1,3 @@
-Action / Puzzle / Educational
+Action
+Puzzle
+Educational

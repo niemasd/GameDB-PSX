@@ -1,1 +1,2 @@
-Puzzle / Maze
+Puzzle
+Maze

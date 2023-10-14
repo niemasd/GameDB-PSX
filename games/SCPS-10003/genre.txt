@@ -1,1 +1,3 @@
-Action / Gun / RPG
+Action
+Gun
+RPG

@@ -1,1 +1,2 @@
-Soccer / Manager
+Soccer
+Manager

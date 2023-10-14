@@ -1,1 +1,2 @@
-Adventure / Quiz
+Adventure
+Quiz

@@ -1,1 +1,3 @@
-Action / Puzzle / Shooter
+Action
+Puzzle
+Shooter

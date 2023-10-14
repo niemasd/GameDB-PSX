@@ -1,1 +1,2 @@
-First Person Shooter / Adventure
+First Person Shooter
+Adventure

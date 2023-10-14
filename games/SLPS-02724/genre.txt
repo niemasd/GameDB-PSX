@@ -1,1 +1,3 @@
-Adventure / Racing / Simulation
+Adventure
+Racing
+Simulation

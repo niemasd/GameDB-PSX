@@ -1,1 +1,3 @@
-Action / Strategy / Shooter
+Action
+Strategy
+Shooter

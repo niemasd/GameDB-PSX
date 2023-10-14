@@ -1,1 +1,3 @@
-Data / Pictures / Puzzle
+Data
+Pictures
+Puzzle

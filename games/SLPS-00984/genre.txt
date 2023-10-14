@@ -1,1 +1,3 @@
-Adventure / Simulation / Strategy
+Adventure
+Simulation
+Strategy

@@ -1,1 +1,2 @@
-Action / First Person Shooter
+Action
+First Person Shooter

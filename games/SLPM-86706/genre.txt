@@ -1,1 +1,3 @@
-Educational / Data / Pictures
+Educational
+Data
+Pictures

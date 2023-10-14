@@ -1,1 +1,4 @@
-Action / Adventure / Puzzle / RPG
+Action
+Adventure
+Puzzle
+RPG

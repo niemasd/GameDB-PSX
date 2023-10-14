@@ -1,1 +1,4 @@
-Action / Adventure / Shooter / Simulation
+Action
+Adventure
+Shooter
+Simulation

@@ -1,1 +1,2 @@
-Tactical RPG / Adventure
+Tactical RPG
+Adventure

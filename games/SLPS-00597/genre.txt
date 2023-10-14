@@ -1,1 +1,2 @@
-Simulation / Adventure
+Simulation
+Adventure

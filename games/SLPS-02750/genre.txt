@@ -1,1 +1,3 @@
-RPG / Strategy / Building
+RPG
+Strategy
+Building

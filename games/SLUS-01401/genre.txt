@@ -1,1 +1,3 @@
-Platformer / Adventure / Mini games
+Platformer
+Adventure
+Mini games

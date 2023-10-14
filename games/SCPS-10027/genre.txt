@@ -1,1 +1,3 @@
-RPG / Strategy / Action
+RPG
+Strategy
+Action

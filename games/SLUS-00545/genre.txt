@@ -1,1 +1,2 @@
-First person shooter / Action
+First person shooter
+Action

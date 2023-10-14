@@ -1,1 +1,3 @@
-Building; / Constructing / RPG
+Building;
+Constructing
+RPG

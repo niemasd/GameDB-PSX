@@ -1,1 +1,2 @@
-Soccer Manager / Strategy
+Soccer Manager
+Strategy

@@ -1,1 +1,3 @@
-Action / Adventure / Beat'em up
+Action
+Adventure
+Beat'em up

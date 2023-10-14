@@ -1,1 +1,3 @@
-Action / Strategy / Adventure
+Action
+Strategy
+Adventure

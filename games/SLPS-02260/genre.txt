@@ -1,1 +1,2 @@
-Board / Strategy
+Board
+Strategy

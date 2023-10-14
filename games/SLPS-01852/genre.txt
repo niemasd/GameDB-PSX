@@ -1,1 +1,3 @@
-Adventure / Tactical RPG / Simulation
+Adventure
+Tactical RPG
+Simulation

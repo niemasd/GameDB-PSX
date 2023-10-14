@@ -1,1 +1,4 @@
-Adventure / Constructing / RPG / Simulation
+Adventure
+Constructing
+RPG
+Simulation

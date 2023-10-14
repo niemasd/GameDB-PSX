@@ -1,1 +1,3 @@
-Sports / Sumo / Simulation
+Sports
+Sumo
+Simulation

@@ -1,1 +1,2 @@
-Puzzle / Action
+Puzzle
+Action

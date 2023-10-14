@@ -1,1 +1,2 @@
-Board / Go
+Board
+Go

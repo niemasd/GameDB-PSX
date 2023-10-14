@@ -1,1 +1,3 @@
-Action / Racing / Gambling
+Action
+Racing
+Gambling

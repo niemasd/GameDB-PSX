@@ -1,1 +1,3 @@
-Browser / Email / PDA
+Browser
+Email
+PDA

@@ -1,1 +1,3 @@
-Action / Adventure / Interactive Movie
+Action
+Adventure
+Interactive Movie

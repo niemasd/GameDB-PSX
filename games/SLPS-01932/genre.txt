@@ -1,1 +1,3 @@
-Adventure / Action / RPG
+Adventure
+Action
+RPG

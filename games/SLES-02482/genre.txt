@@ -1,1 +1,3 @@
-Action / Gun / Shooter
+Action
+Gun
+Shooter

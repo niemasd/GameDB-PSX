@@ -1,1 +1,3 @@
-Constructing / Strategy / RPG
+Constructing
+Strategy
+RPG

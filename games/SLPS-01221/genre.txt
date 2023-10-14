@@ -1,1 +1,4 @@
-Action / Golf / Puzzle / Strategy
+Action
+Golf
+Puzzle
+Strategy

@@ -1,1 +1,3 @@
-Action / RPG / Card Battle
+Action
+RPG
+Card Battle

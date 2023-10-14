@@ -1,1 +1,4 @@
-Action / Breeding / Constructing / RPG
+Action
+Breeding
+Constructing
+RPG

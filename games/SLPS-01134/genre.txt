@@ -1,1 +1,2 @@
-Mahjong / Hanafuda
+Mahjong
+Hanafuda

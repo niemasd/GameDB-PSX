@@ -1,1 +1,2 @@
-Adventure / Dating Simulation
+Adventure
+Dating Simulation

@@ -1,1 +1,3 @@
-RPG / Adventure / Fighting
+RPG
+Adventure
+Fighting

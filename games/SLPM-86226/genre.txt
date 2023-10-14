@@ -1,1 +1,3 @@
-Data / Pictures / Videos.
+Data
+Pictures
+Videos.

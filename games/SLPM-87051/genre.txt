@@ -1,1 +1,3 @@
-Data / Pictures / Quiz
+Data
+Pictures
+Quiz

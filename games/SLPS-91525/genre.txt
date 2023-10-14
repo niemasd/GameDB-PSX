@@ -1,1 +1,3 @@
-Action / Simulation / RPG
+Action
+Simulation
+RPG

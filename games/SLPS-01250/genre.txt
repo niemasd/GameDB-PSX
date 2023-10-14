@@ -1,1 +1,3 @@
-Adventure / Action / Simulation
+Adventure
+Action
+Simulation

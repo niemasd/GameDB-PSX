@@ -1,1 +1,4 @@
-Action / Beat'em up / Football / Racing
+Action
+Beat'em up
+Football
+Racing

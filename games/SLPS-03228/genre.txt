@@ -1,1 +1,2 @@
-Board / Backgammon
+Board
+Backgammon

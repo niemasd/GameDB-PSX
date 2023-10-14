@@ -1,1 +1,2 @@
-2D Fighting / Adventure
+2D Fighting
+Adventure

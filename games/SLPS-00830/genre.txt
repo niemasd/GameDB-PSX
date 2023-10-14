@@ -1,1 +1,2 @@
-Flight Simulator / Shooter
+Flight Simulator
+Shooter

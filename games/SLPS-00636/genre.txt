@@ -1,1 +1,3 @@
-Adventure / Interactive Movie / RPG
+Adventure
+Interactive Movie
+RPG

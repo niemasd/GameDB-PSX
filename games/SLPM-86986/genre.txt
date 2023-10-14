@@ -1,1 +1,3 @@
-Adventure / Action / Puzzle
+Adventure
+Action
+Puzzle

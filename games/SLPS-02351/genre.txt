@@ -1,1 +1,2 @@
-Adventure / Card Battle
+Adventure
+Card Battle
