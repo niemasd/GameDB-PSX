@@ -6,6 +6,16 @@ jobs:
     steps:
     - name: Set up Git repository
       uses: actions/checkout@v2
+    - name: Set up environment
+      run: |
+        sudo apt-get update && sudo apt-get upgrade -y && \
+        sudo apt-get install -y python3-pip && \
+        sudo -H pip3 install seaborn
+    - name: Run data building scripts
+      run: |
+        wget https://github.com/niemasd/GameDB/raw/main/scripts/create_complete_data_json.py && python3 create_complete_data_json.py && \
+        wget https://github.com/niemasd/GameDB/raw/main/scripts/create_complete_data_tsv.py && python3 create_complete_data_tsv.py && \
+        wget https://github.com/niemasd/GameDB/raw/main/scripts/plot_dates_release.py && python3 plot_dates_release.py
     - name: Generate release tag
       id: tag
       run: |
@@ -16,11 +26,6 @@ jobs:
         tag_name: ${{ steps.tag.outputs.release_tag }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - name: Run data building scripts
-      run: |
-        wget https://github.com/niemasd/GameDB/raw/main/scripts/create_complete_data_json.py && python3 create_complete_data_json.py && \
-        wget https://github.com/niemasd/GameDB/raw/main/scripts/create_complete_data_tsv.py && python3 create_complete_data_tsv.py && \
-        wget https://github.com/niemasd/GameDB/raw/main/scripts/plot_dates_release.py && python3 plot_dates_release.py
     - name: Upload complete data JSON to release
       uses: svenstaro/upload-release-action@v2
       with:
