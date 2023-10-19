@@ -19,7 +19,8 @@ jobs:
     - name: Run data building scripts
       run: |
         wget https://github.com/niemasd/GameDB/raw/main/scripts/create_complete_data_json.py && python3 create_complete_data_json.py && \
-        wget https://github.com/niemasd/GameDB/raw/main/scripts/create_complete_data_tsv.py && python3 create_complete_data_tsv.py
+        wget https://github.com/niemasd/GameDB/raw/main/scripts/create_complete_data_tsv.py && python3 create_complete_data_tsv.py && \
+        wget https://github.com/niemasd/GameDB/raw/main/scripts/plot_dates_release.py && python3 plot_dates_release.py
     - name: Upload complete data JSON to release
       uses: svenstaro/upload-release-action@v2
       with:
@@ -34,5 +35,13 @@ jobs:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
         file: data.tsv
         asset_name: PSX.data.tsv
+        tag: ${{ steps.tag.outputs.release_tag }}
+        overwrite: true
+    - name: Upload release date distribution PDF to release
+      uses: svenstaro/upload-release-action@v2
+      with:
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        file: release_dates.pdf
+        asset_name: PSX.release_dates.pdf
         tag: ${{ steps.tag.outputs.release_tag }}
         overwrite: true
