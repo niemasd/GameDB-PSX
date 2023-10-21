@@ -8,4 +8,11 @@ Sony PlayStation
 * **[`PSX.titles.json`](https://github.com/niemasd/GameDB-PSX/releases/latest/download/PSX.titles.json):** Mapping of serial numbers to game titles, structured in the JSON format
 
 # Sources
+* [GameFAQs](https://gamefaqs.gamespot.com/)
+* [Glitchwave](https://glitchwave.com/)
+* [MobyGames](https://www.mobygames.com/)
 * [PlayStation Datacenter](https://psxdatacenter.com/)
+* [Redump](http://redump.org/)
+* [Redump Wiki](http://wiki.redump.org/)
+* [SerialStation](https://www.serialstation.com/)
+* [VGArchive](https://vgarchive.org/)
