@@ -14,6 +14,7 @@ jobs:
     - name: Run data building scripts
       run: |
         wget https://github.com/niemasd/GameDB/raw/main/scripts/create_complete_data_json.py && python3 create_complete_data_json.py && \
+        wget https://github.com/niemasd/GameDB/raw/main/scripts/create_titles_json.py && python3 create_titles_json.py && \
         wget https://github.com/niemasd/GameDB/raw/main/scripts/create_complete_data_tsv.py && python3 create_complete_data_tsv.py && \
         wget https://github.com/niemasd/GameDB/raw/main/scripts/plot_dates_release.py && python3 plot_dates_release.py
     - name: Generate release tag
@@ -32,6 +33,14 @@ jobs:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
         file: data.json
         asset_name: PSX.data.json
+        tag: ${{ steps.tag.outputs.release_tag }}
+        overwrite: true
+    - name: Upload titles JSON to release
+      uses: svenstaro/upload-release-action@v2
+      with:
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        file: titles.json
+        asset_name: PSX.titles.json
         tag: ${{ steps.tag.outputs.release_tag }}
         overwrite: true
     - name: Upload complete data TSV to release
