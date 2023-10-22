@@ -16,7 +16,7 @@ jobs:
         wget https://github.com/niemasd/GameDB/raw/main/scripts/create_complete_data_json.py && python3 create_complete_data_json.py && \
         wget https://github.com/niemasd/GameDB/raw/main/scripts/create_titles_json.py && python3 create_titles_json.py && \
         wget https://github.com/niemasd/GameDB/raw/main/scripts/create_complete_data_tsv.py && python3 create_complete_data_tsv.py && \
-        wget https://github.com/niemasd/GameDB/raw/main/scripts/plot_dates_release.py && python3 plot_dates_release.py
+        wget https://github.com/niemasd/GameDB/raw/main/scripts/plot_dates_release.py && python3 plot_dates_release.py "Sony PlayStation (PSX)"
     - name: Generate release tag
       id: tag
       run: |
