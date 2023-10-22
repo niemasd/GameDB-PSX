@@ -1,5 +1,5 @@
 # GameDB-PSX
-Sony PlayStation, part of [GameDB](https://github.com/niemasd/GameDB).
+Sony PlayStation (PSX), part of [GameDB](https://github.com/niemasd/GameDB).
 
 ## Structured Downloads
 * **[`PSX.data.json`](https://github.com/niemasd/GameDB-PSX/releases/latest/download/PSX.data.json):** All data, structured in the JSON format
