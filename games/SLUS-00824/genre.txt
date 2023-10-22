@@ -1,4 +1,4 @@
 Action
-Beat'em up
+Beat'em Up
 Shooter
 Adventure

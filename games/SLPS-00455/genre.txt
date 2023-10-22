@@ -1,4 +1,4 @@
 Action
 Shooter
 Platformer
-Beat'em up
+Beat'em Up
