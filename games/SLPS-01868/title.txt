@@ -1,1 +1,1 @@
-IS - Internal Section
+iS: Internal Section

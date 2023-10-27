@@ -2,5 +2,5 @@ English
 French
 German
 Italian
-Spain
+Spanish
 Swedish

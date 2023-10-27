@@ -1,2 +1,4 @@
+English
 French
 German
+Italian

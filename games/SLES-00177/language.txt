@@ -1,12 +1,10 @@
+Arabic
 English
-English
-Japanese
 French
 German
-Spanish
 Italian
-Portuguese
+Japanese
 Korean
+Portuguese
 Russian
-Mexican
-Iranian
+Spanish

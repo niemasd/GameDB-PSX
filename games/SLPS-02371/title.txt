@@ -1,1 +1,1 @@
-Fever - Sankyo Koushiki Pachinko Simulation
+Fever: Sankyo Koushiki Pachinko Simulation

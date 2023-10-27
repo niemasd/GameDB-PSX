@@ -1,6 +1,5 @@
-English
-French
 Dutch
+English
 German
 Spanish
 Swedish

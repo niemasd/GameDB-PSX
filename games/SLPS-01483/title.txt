@@ -1,1 +1,1 @@
-Zig Zag Ball
+ZigZagBall

@@ -1,11 +1,11 @@
-English
-Danks
+Danish
 Dutch
-France
+English
 Finnish
+French
 German
 Italian
-Norweigan
+Norwegian
 Portuguese
 Spanish
 Swedish

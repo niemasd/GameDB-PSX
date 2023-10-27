@@ -1,7 +1,8 @@
+Danish
+Dutch
 English
 French
-Danks
-Dutch
+German
 Italian
 Spanish
 Swedish
