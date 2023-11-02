@@ -10,6 +10,7 @@ Sony PlayStation (PSX), part of [GameDB](https://github.com/niemasd/GameDB).
 # Sources
 * [GameFAQs](https://gamefaqs.gamespot.com/)
 * [Glitchwave](https://glitchwave.com/)
+* [MiSTer Addons](https://misteraddons.com/)
 * [MobyGames](https://www.mobygames.com/)
 * [PlayStation Datacenter](https://psxdatacenter.com/)
 * [Redump](http://redump.org/)
