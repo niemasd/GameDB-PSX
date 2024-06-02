@@ -1,0 +1,2 @@
+CDSYS.BIN
+PSX.EXE
