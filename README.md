@@ -25,5 +25,6 @@ If *neither* of these is the case, you might be able to use some combination of 
 * [PlayStation Datacenter](https://psxdatacenter.com/)
 * [Redump](http://redump.org/)
 * [Redump Wiki](http://wiki.redump.org/)
+* [ScreenScraper](https://www.screenscraper.fr/)
 * [SerialStation](https://www.serialstation.com/)
 * [VGArchive](https://vgarchive.org/)
