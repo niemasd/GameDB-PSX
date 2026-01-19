@@ -1,1 +1,1 @@
-LSD - Dream Emulator
+LSD: Dream Emulator
