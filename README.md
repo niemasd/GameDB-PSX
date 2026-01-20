@@ -27,7 +27,7 @@ Total games: **11,912** (vs [Redump](http://redump.org/discs/system/psx/): 10,78
 | serial | 11,754 | 98% |
 | region | 11,748 | 98% |
 | language | 11,747 | 98% |
-| release_name | 9,916 | 83% |
+| release_name | 11,154 | 94% |
 | developer | 9,931 | 83% |
 | publisher | 9,932 | 83% |
 | genre | 9,934 | 83% |
