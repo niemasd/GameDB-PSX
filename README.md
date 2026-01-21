@@ -17,26 +17,6 @@ Some games have an executable that doesn't follow this naming scheme. In *some* 
 
 If *neither* of these is the case, you might be able to use some combination of the game disc's UUID, volume ID, and file list to uniquely identify the game, but GameID doesn't currently explore those.
 
-## Metadata Coverage
-
-Total games: **11,912** (vs [Redump](http://redump.org/discs/system/psx/): 10,785 discs)
-
-| Field | Count | Coverage |
-|-------|------:|:--------:|
-| title | 11,894 | 99% |
-| serial | 11,754 | 98% |
-| region | 11,748 | 98% |
-| language | 11,747 | 98% |
-| release_name | 11,154 | 94% |
-| developer | 9,931 | 83% |
-| publisher | 9,932 | 83% |
-| genre | 9,934 | 83% |
-| release_date | 9,921 | 83% |
-| root_files | 9,916 | 83% |
-| uuid | 9,934 | 83% |
-| volume_ID | 5,642 | 47% |
-| release_name_alt | 359 | 3% |
-
 # Sources
 * [GameFAQs](https://gamefaqs.gamespot.com/)
 * [Glitchwave](https://glitchwave.com/)
